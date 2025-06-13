@@ -8,11 +8,11 @@
 <br/>QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-   <a href="https://github.com/JAPHETTECH/JAPHET-MD">
+   <a href="https://github.com/JAPHETTECH/JAPHET-MD-SESSION-GENERATOR">
     <img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="500">
      
 </a>
- <p align="center"><img src="https://profile-counter.glitch.me/{Itxxwasi}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Japhetech}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
